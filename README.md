@@ -1,4 +1,4 @@
-# Esse projeto faz parte de uma serie de Projetos com React
+# Esse projeto faz parte de uma serie de Projetos com React/Next
 
 ## Resumo
 A equipe de marketing da empresa em que você trabalha acabou de lançar um novo produto. Eles precisam de um plano de marketing detalhado que inclua um site e uma página de destino dedicada a atrair pessoas para conhecer o produto e, em última instância, comprá-lo.
