@@ -1,38 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Resumo
+A equipe de marketing da empresa em que você trabalha acabou de lançar um novo produto. Eles precisam de um plano de marketing detalhado que inclua um site e uma página de destino dedicada a atrair pessoas para conhecer o produto e, em última instância, comprá-lo.
 
-## Getting Started
+Nível 1
+Ter um site é uma ótima maneira de apresentar um produto, com a capacidade de fornecer o máximo de detalhes possível.
 
-First, run the development server:
+Crie um novo site que destaque as ótimas características do produto e forneça informações detalhadas sobre cada recurso. As páginas devem incluir:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+• Página inicial com fotografia e visão geral geral
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+• Páginas de recursos vinculadas a partir da página inicial com mais detalhes
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+Nível 2
+Apenas criar um site não significa automaticamente que as pessoas comprarão o produto.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+Crie uma página de destino como parte do site de marketing que incentive as pessoas a se inscreverem com um formulário para obter mais informações.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Nível 3
+Em última análise, as pessoas precisam comprar ou se inscrever para o produto e, para fazer isso, precisam de uma maneira de entrar em contato com a equipe de vendas.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Crie uma nova página com um formulário que permitirá às pessoas entrar em contato com a empresa caso estejam interessadas no produto. Inclua um link "Chamada para ação" na parte inferior de cada página do site, exceto na própria página de contato, que direcione para a página de contato.
 
-## Learn More
+Tarefas
+Pense em um nome para o produto
+Reúna fotos gratuitas
+Crie uma página inicial
+Crie páginas de recursos
+Crie uma página de destino
+Adicione um formulário de inscrição
+Crie uma página de contato
+Adicione um formulário de contato
+Adicione links de contato ao site
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Ferramentas
+Unsplash
+Pexels
+Gatsby
+TakeShape CMS
